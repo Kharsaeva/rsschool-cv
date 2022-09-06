@@ -11,7 +11,7 @@
 
 ## ***About Me***
 
-- Hi, my name is Aisha, I am 27 years old, since the end of 2020 I started studying web development, due to some circumstances I had to leave programming and job search, which caused gaps in knowledge. I hope that the RS School course will help me fill in the gaps in my knowledge and get a job.
+Hi, my name is Aisha, I am 27 years old, since the end of 2020 I started studying web development, due to some circumstances I had to leave programming and job search, which caused gaps in knowledge. I hope that the RS School course will help me fill in the gaps in my knowledge and get a job.
 
 ## ***My skills***
 
