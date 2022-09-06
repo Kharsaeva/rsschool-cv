@@ -12,20 +12,35 @@
 
 ## ***About Me***
 
-- А
+- Hi, my name is Aisha, I am 27 years old, since the end of 2020 I started studying web development, due to some circumstances I had to leave programming and job search, which caused gaps in knowledge. I hope that the RS School course will help me fill in the gaps in my knowledge and get a job.
 
 ## ***My skills***
 
-* HTML/CSS
+* HTML5/CSS3
 * SCSS
 * JavaScript(basic)
-* React/ Redux
+* React/Redux
 * GIT
+* Figma
 
-## ***Code***
+## ***Code example***
 
 ```javascript
-npm i
+const fibonacci = (function () {
+  let F = [0, 1];
+  return function () {
+    let fibonacciNum = F[F.length - 1],
+      n = F.length;
+    F.push(F[n - 1] + F[n - 2]);
+    return fibonacciNum;
+  };
+}());
+
+console.log(fibonacci());
+console.log(fibonacci());
+console.log(fibonacci());
+console.log(fibonacci());
+console.log(fibonacci());
 ```
 
 ## ***Work experience***
