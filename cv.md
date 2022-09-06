@@ -2,13 +2,12 @@
 
 # ***Aisha Kharsaeva***
 
----
-
 ## ***My contacts***
 
 - GitHub: <a href="https://github.com/Kharsaeva" target="_blank">Kharsaeva</a>
 - Telegram: <a href="https://t.me/Kharsaeva" target="_blank">Kharsaeva</a>
 - Gmail: arsaevaaisha@gmail.com
+- Discord: Aisha (@Kharsaeva)
 
 ## ***About Me***
 
@@ -24,23 +23,11 @@
 * Figma
 
 ## ***Code example***
-
+*Write function RemoveExclamationMarks which removes all exclamation marks from a given string.*
 ```javascript
-const fibonacci = (function () {
-  let F = [0, 1];
-  return function () {
-    let fibonacciNum = F[F.length - 1],
-      n = F.length;
-    F.push(F[n - 1] + F[n - 2]);
-    return fibonacciNum;
-  };
-}());
-
-console.log(fibonacci());
-console.log(fibonacci());
-console.log(fibonacci());
-console.log(fibonacci());
-console.log(fibonacci());
+function removeExclamationMarks(s) {
+  return s.split('').filter(char => char !== '!').join('')
+}
 ```
 
 ## ***Work experience***
