@@ -1,1 +1,13 @@
+body {
+    margin: 0;
+}
+.greeting {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
 
+.greeting h1 {
+    margin: 0
+}
