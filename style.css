@@ -2,12 +2,11 @@ body {
     margin: 0;
 }
 .greeting {
-    height: 400px;
+    height: 10em;
     display: flex;
     align-items: center;
     justify-content: center
 }
-
 .greeting h1 {
     margin: 0
 }
