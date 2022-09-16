@@ -5,7 +5,6 @@
 ## ***My contacts***
 
 - GitHub: <a href="https://github.com/Kharsaeva" target="_blank">Kharsaeva</a>
-- Telegram: <a href="https://t.me/Kharsaeva" target="_blank">Kharsaeva</a>
 - Gmail: arsaevaaisha@gmail.com
 - Discord: Aisha (@Kharsaeva)
 
