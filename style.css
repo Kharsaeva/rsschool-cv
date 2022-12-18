@@ -1,13 +1,111 @@
-body {
+* {
     margin: 0;
-}
-.greeting {
-    height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: center
+    font-family: 'Unbounded', cursive;
+    letter-spacing: 2px;
 }
 
-.greeting h1 {
-    margin: 0
+main {
+    margin: 50px;
+}
+
+section {
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+
+li,
+code,
+p {
+    line-height: 1.7;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #80b798;
+}
+
+.header {
+    height: 150px;
+    padding-top: 50px;
+    color: white;
+    background-color: #000;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.footer {
+    height: 70px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    border-top: 5px solid black;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-title {
+    padding-top: 23px;
+}
+
+.footer-logo {
+    padding-top: 10px;
+}
+
+.contacts-ul {
+    display: flex;
+}
+
+h2 {
+    padding: 20px 0;
+}
+
+.profile-title {
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    list-style-type: none;
+}
+
+.li-item {
+    line-height: 25px;
+}
+
+.profile-title {
+    text-align: left;
+}
+
+.summary-p,
+.english {
+    padding: 5px 0 0 40px;
+    width: 650px;
+}
+
+.pre-code {
+    width: 750px;
+    background-color: #b0b0b0;
+    margin-left: 40px;
+}
+
+.title {
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+    padding-left: 20px;
 }
