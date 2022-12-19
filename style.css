@@ -75,7 +75,8 @@ main {
     padding-top: 50px;
 }
 
-section {
+section,
+.navigation {
     margin-bottom: 50px;
     font-size: 18px;
 }
